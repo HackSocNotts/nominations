@@ -1,0 +1,2 @@
+# nominations
+HackSoc AGM nominations
