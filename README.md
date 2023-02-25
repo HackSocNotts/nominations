@@ -1,6 +1,6 @@
 # Nominations
 
-HackSoc AGM nominations!
+HackSoc AGM nominations and proposals!
 
 ## How do I run for a position?
 
