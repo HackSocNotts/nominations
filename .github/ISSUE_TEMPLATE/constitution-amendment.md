@@ -2,7 +2,7 @@
 name: Constitution Amendment
 about: Propose a new constitutional amendment.
 title: Amendment - [Amendment Title]
-labels: enhancement
+labels: 2023, enhancement
 assignees: zac-garby
 
 ---
