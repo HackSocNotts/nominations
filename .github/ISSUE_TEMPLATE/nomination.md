@@ -15,9 +15,11 @@ assignees: zac-garby
 ## General Secretary
 ## Treasurer
 ## Development Secretary
-## Cyber Security Secretary
 ## Speaker Acquisition Secretary
 ## Marketing Secretary
+## Trips and Hackathons Secretary
+## Working Groups Secretary
+## Welfare Secretary
 
 # Manifesto
 
