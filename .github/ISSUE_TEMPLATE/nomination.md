@@ -3,7 +3,7 @@ name: Nomination
 about: Nominate yourself for HackSoc Committee 2023/24!
 title: "[Your name] - [Position]"
 labels: 2023, nomination
-assignees: zac-garby
+assignees: dthelegend
 
 ---
 
