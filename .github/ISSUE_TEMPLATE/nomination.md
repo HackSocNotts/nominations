@@ -1,9 +1,9 @@
 ---
 name: Nomination
-about: Nominate yourself for HackSoc Committee 2023/24!
+about: Nominate yourself for HackSoc Committee 2026/27!
 title: "[Your name] - [Position]"
-labels: 2023, nomination
-assignees: dthelegend
+labels: 2026/27 AGM, nomination
+assignees: larleevee
 
 ---
 
@@ -15,10 +15,10 @@ assignees: dthelegend
 ## General Secretary
 ## Treasurer
 ## Development Secretary
+## Workshop Secretary
 ## Speaker Acquisition Secretary
 ## Marketing Secretary
 ## Trips and Hackathons Secretary
-## Working Groups Secretary
 ## Welfare Secretary
 
 # Manifesto
