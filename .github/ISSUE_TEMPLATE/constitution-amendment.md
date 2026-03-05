@@ -2,8 +2,8 @@
 name: Constitution Amendment
 about: Propose a new constitutional amendment.
 title: Amendment - [Amendment Title]
-labels: 2023, enhancement
-assignees: zac-garby
+labels: 2026/27 AGM, enhancement
+assignees: larleevee
 
 ---
 
